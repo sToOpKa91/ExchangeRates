@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ExchangeRates</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exchange_rates">Exchange rates</string>
+    <string name="title">Title:</string>
+    <string name="purchase">Purchase:</string>
+    <string name="selling">Selling:</string>
 </resources>
